@@ -38,6 +38,8 @@ form.addEventListener("submit", (event) => {
         return;
     }
 
+    // Mostra mensagem de envio
+    alert("O formulário foi enviado com sucesso!");
     // Se todos os campos estiverem corretamente preenchidos, envie o form
     form.submit();  
 });
@@ -59,8 +61,9 @@ function isEmailValid(email) {
 }
 
 // Função que valida a senha
-function validatePassword(password, minDigits) {
-    if(password.length >= minDigits) {
+function validatePassword(password) {
+    // Verifica se a senha não é vazia
+    if(password.trim() !== '') {
         // Senha válida
         return true
     }
