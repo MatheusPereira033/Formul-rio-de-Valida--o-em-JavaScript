@@ -1,6 +1,7 @@
 # FORMULÁRIO DE VALIDAÇÃO JAVASCRIPT
 <img src="https://raw.githubusercontent.com/MatheusPereira033/Formul-rio-de-Valida--o-em-JavaScript/main/Form%20com%20valida%C3%A7%C3%A3o%20JavaScript-gif.gif" alt="Video GIF">
-Verifique o Projeto: https://kayke-fujinaka.github.io/LandingPage-Pepsi/
+<p>Nesse projeto o usuário irá preencher um formulário com as informações desejadas e após preencher e clicar em "enviar" ocorrerá um processo de validação e verificação dos campos preenchidos. Caso tenha algum campo incorreto, vai aparecer uma mensagem dizendo do que se trata o erro e caso o envio ocorra corretamente irá aparecer uma mensagem dizendo que o envio foi concluído.</p>
+Verifique o Projeto: https://matheuspereira033.github.io/Formulario-Validacao-JavaScript/
 <br>
 <h2>:dart: Recursos</h2>
 :heavy_check_mark: Estrutura de páginas com HTML;<br>
